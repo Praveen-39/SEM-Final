@@ -94,7 +94,7 @@ def extract_emotion_features(audio, sr=22050):
 # Test function
 if __name__ == "__main__":
     # Test with a sample audio file
-    test_file = "test_audio.wav"
+    test_file = "D://Final Project//Audio_Song_Actors_01-24//Actor_02//03-02-01-01-01-01-02.wav"
     
     try:
         features = extract_features(test_file)
