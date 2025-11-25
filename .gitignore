@@ -67,3 +67,5 @@ desktop.ini
 temp/
 tmp/
 
+app_backup.py
+python-version
