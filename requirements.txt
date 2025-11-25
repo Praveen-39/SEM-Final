@@ -1,11 +1,13 @@
-tensorflow-cpu==2.13.0
+streamlit==1.28.0
 numpy==1.24.3
 pandas==1.5.3
-scikit-learn==1.3.2
 librosa==0.10.1
+scikit-learn==1.3.2
 soundfile==0.12.1
 speechrecognition==3.10.1
-streamlit==1.28.0
 matplotlib==3.7.5
 seaborn==0.13.0
+tensorflow==2.13.0
+streamlit-webrtc
 pillow==10.0.0
+
